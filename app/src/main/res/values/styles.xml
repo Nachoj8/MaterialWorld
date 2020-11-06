@@ -16,7 +16,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginRight">8dp</item>
         <item name="android:background">#4993CD</item>
-        <item name="android:textColor">#FFA117</item>
+        <item name="android:textColor">#ECC894</item>
     </style>
 
 </resources>
